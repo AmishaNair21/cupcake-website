@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+
+
+
+.head{
+    width:100%;
+    height:140px;
+    background-color:yellow;
+}
+
+.logo{
+    height:60px;
+    background-color: red;
+
+}
+
+.linkyy{
+    background-color:blue;
+    width:50px;
+}
+
+.search{
+    background-color: pink;
+    width:50px;
+}
+
+.content{
+    width:100%;
+    height:100%;
+}
+
+.banner{
+    height:350px;
+    width:100%;
+    background-color: blueviolet;
+}
+
+.shop{
+    height:500px;
+    width:100%;
+}
+.card{
+    height:400px;
+    width:200px;
+    background-color: red;
+}
+.footer{
+    width:100%;
+    height:140px;
+    background-color: yellow;
+}
